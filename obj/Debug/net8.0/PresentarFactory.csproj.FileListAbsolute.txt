@@ -1,0 +1,15 @@
+C:\Users\Gusti\source\programacionIII2025\PresentarFactory\bin\Debug\net8.0\PresentarFactory.exe
+C:\Users\Gusti\source\programacionIII2025\PresentarFactory\bin\Debug\net8.0\PresentarFactory.deps.json
+C:\Users\Gusti\source\programacionIII2025\PresentarFactory\bin\Debug\net8.0\PresentarFactory.runtimeconfig.json
+C:\Users\Gusti\source\programacionIII2025\PresentarFactory\bin\Debug\net8.0\PresentarFactory.dll
+C:\Users\Gusti\source\programacionIII2025\PresentarFactory\bin\Debug\net8.0\PresentarFactory.pdb
+C:\Users\Gusti\source\programacionIII2025\PresentarFactory\obj\Debug\net8.0\PresentarFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gusti\source\programacionIII2025\PresentarFactory\obj\Debug\net8.0\PresentarFactory.AssemblyInfoInputs.cache
+C:\Users\Gusti\source\programacionIII2025\PresentarFactory\obj\Debug\net8.0\PresentarFactory.AssemblyInfo.cs
+C:\Users\Gusti\source\programacionIII2025\PresentarFactory\obj\Debug\net8.0\PresentarFactory.csproj.CoreCompileInputs.cache
+C:\Users\Gusti\source\programacionIII2025\PresentarFactory\obj\Debug\net8.0\PresentarFactory.sourcelink.json
+C:\Users\Gusti\source\programacionIII2025\PresentarFactory\obj\Debug\net8.0\PresentarFactory.dll
+C:\Users\Gusti\source\programacionIII2025\PresentarFactory\obj\Debug\net8.0\refint\PresentarFactory.dll
+C:\Users\Gusti\source\programacionIII2025\PresentarFactory\obj\Debug\net8.0\PresentarFactory.pdb
+C:\Users\Gusti\source\programacionIII2025\PresentarFactory\obj\Debug\net8.0\PresentarFactory.genruntimeconfig.cache
+C:\Users\Gusti\source\programacionIII2025\PresentarFactory\obj\Debug\net8.0\ref\PresentarFactory.dll
